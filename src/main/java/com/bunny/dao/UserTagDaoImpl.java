@@ -45,6 +45,13 @@ public class UserTagDaoImpl implements UserTagDao {
 		return res;
 	}
 
+	/**
+	 * 预处理，插入每个用户的特征值时，建立userId的索引
+	 * 同时修改每个特征对应的用户
+	 * @param userId
+	 * @param tagValue
+	 * @return
+	 */
 	@Override
 	public int insertUserPortrait(Long userId, Set<Integer> tagValue) {
 		RoaringBitmap userPortraitByUid = getUserPortraitByUid(userId);
