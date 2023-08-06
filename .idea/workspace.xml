@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7c73a5b9-ab64-493b-a47c-0978ac669c58" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.3.6/spring-context-5.3.6-sources.jar!/org/springframework/context/annotation/AnnotationConfigApplicationContext.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="G:\CodeSpace\MavenRepertory" />
+        <option name="mavenHome" value="G:\Enviroment\apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="G:\Enviroment\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1rLY41u97SrAdntXMJx2K370x5U" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Spock" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Spock" value="spock.lang.Specification" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BtraceDemo/lib/btrace-client.jar" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.5912938" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="enabled" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="spock.lang.Specification" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.bunny.dmp" />
+      <recent name="com.bunny.leetcode" />
+      <recent name="com.bunny.service" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.UserTagDaoImplTest.test DMP">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetCodeServiceTest.ladderLength" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bunny.ll.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bunny.service" />
+      <option name="MAIN_CLASS_NAME" value="com.bunny.service.LeetCodeServiceTest" />
+      <option name="METHOD_NAME" value="ladderLength" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetCodeServiceTest.totalNQueens" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bunny.ll.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bunny.service" />
+      <option name="MAIN_CLASS_NAME" value="com.bunny.service.LeetCodeServiceTest" />
+      <option name="METHOD_NAME" value="totalNQueens" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetCodeStep2Test.IsInterleave" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bunny.ll.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bunny.ll" />
+      <option name="MAIN_CLASS_NAME" value="com.bunny.ll.LeetCodeStep2Test" />
+      <option name="METHOD_NAME" value="IsInterleave" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserTagDaoImplTest.test DMP" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bunny.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bunny.dmp" />
+      <option name="MAIN_CLASS_NAME" value="com.bunny.dmp.UserTagDaoImplTest" />
+      <option name="METHOD_NAME" value="test DMP" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring_demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bunny.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bunny.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.LeetCodeServiceTest.ladderLength" />
+      <item itemvalue="JUnit.LeetCodeServiceTest.totalNQueens" />
+      <item itemvalue="JUnit.LeetCodeStep2Test.IsInterleave" />
+      <item itemvalue="Spring Boot.Application" />
+      <item itemvalue="JUnit.UserTagDaoImplTest.test DMP" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UserTagDaoImplTest.test DMP" />
+        <item itemvalue="JUnit.LeetCodeStep2Test.IsInterleave" />
+        <item itemvalue="Spring Boot.Application" />
+        <item itemvalue="JUnit.LeetCodeServiceTest.ladderLength" />
+        <item itemvalue="JUnit.LeetCodeServiceTest.totalNQueens" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\BUNNY\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c73a5b9-ab64-493b-a47c-0978ac669c58" name="Default Changelist" comment="" />
+      <created>1618756641782</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618756641782</updated>
+      <workItem from="1618756643617" duration="1011000" />
+      <workItem from="1618757674298" duration="38000" />
+      <workItem from="1618841576779" duration="3204000" />
+      <workItem from="1618928268837" duration="2350000" />
+      <workItem from="1619011825677" duration="1991000" />
+      <workItem from="1619100483029" duration="1021000" />
+      <workItem from="1619187189024" duration="789000" />
+      <workItem from="1619232828838" duration="1805000" />
+      <workItem from="1619349327903" duration="1189000" />
+      <workItem from="1619364783956" duration="215000" />
+      <workItem from="1619918686605" duration="1364000" />
+      <workItem from="1620010872835" duration="875000" />
+      <workItem from="1620481688201" duration="1968000" />
+      <workItem from="1621700015934" duration="521000" />
+      <workItem from="1621753771907" duration="2834000" />
+      <workItem from="1622869290193" duration="4639000" />
+      <workItem from="1625403229625" duration="1352000" />
+      <workItem from="1625928778747" duration="4691000" />
+      <workItem from="1625972791521" duration="8168000" />
+      <workItem from="1647436080093" duration="1344000" />
+      <workItem from="1659457294443" duration="948000" />
+      <workItem from="1670686207668" duration="1504000" />
+      <workItem from="1682761792243" duration="3132000" />
+      <workItem from="1682841015896" duration="5066000" />
+      <workItem from="1682911292282" duration="5314000" />
+      <workItem from="1683001551915" duration="11453000" />
+      <workItem from="1683080970826" duration="3155000" />
+      <workItem from="1683210533915" duration="4728000" />
+      <workItem from="1683292558638" duration="2032000" />
+      <workItem from="1683381087359" duration="1789000" />
+      <workItem from="1683439109143" duration="8233000" />
+      <workItem from="1683645517037" duration="2194000" />
+      <workItem from="1683728815499" duration="3004000" />
+      <workItem from="1683812493445" duration="1879000" />
+      <workItem from="1683988154324" duration="5537000" />
+      <workItem from="1684045519341" duration="8186000" />
+      <workItem from="1684252017119" duration="1192000" />
+      <workItem from="1684650585238" duration="2980000" />
+      <workItem from="1684769014121" duration="192000" />
+      <workItem from="1684769225268" duration="863000" />
+      <workItem from="1684929595590" duration="629000" />
+      <workItem from="1691303017394" duration="10703000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

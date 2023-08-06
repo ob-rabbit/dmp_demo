@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="btrace-boot">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../BtraceDemo/lib/btrace-boot.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

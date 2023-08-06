@@ -1,0 +1,19 @@
+spring:
+  application:
+    name: prometheus-example
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+    metrics:
+      enabled: true
+    prometheus:
+      enabled: true
+  metrics:
+    tags:
+      application: ${spring.application.name}
+
+server:
+  port: 8088
